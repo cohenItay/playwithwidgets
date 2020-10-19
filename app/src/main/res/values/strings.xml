@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">IntentsAndActions</string>
+    <string name="welcome_message">Hi Natan!</string>
+    <string name="rowsAmount">Rows amount</string>
+    <string name="enabled">Enabled</string>
+    <string name="natanItsTooMuch">Natan, it\'s too much, don\'t be spoiled.</string>
+    <string name="fireOnYou">Fire on you</string>
+    <string name="thatsAStupidText">You came down hard on the %d time</string>
+    <string name="go">Go</string>
+</resources>

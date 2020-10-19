@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_message">הי נתן!</string>
+    <string name="rowsAmount">כמות שורות</string>
+    <string name="enabled">מאופשר</string>
+    <string name="natanItsTooMuch">נתן, זה יותר מדיי אל תהיה מפונק.</string>
+    <string name="fireOnYou">אש עליך</string>
+    <string name="thatsAStupidText">נפלת חזק בפעם ה%d</string>
+    <string name="go">סע</string>
+</resources>
